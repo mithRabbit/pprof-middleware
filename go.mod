@@ -1,4 +1,4 @@
-module example.com/pprof-middleware
+module github.com/mithRabbit/pprof-middleware
 
 go 1.21.5
 
